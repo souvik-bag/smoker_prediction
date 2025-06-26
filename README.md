@@ -61,17 +61,17 @@ smoker-prediction/
 
 1.  **Clone the repository:**
     ```bash
-    git clone [your-repository-url]
+    git clone [https://github.com/souvik-bag/smoker_prediction]
     cd smoker-prediction
     ```
 2.  **Install R and RStudio:**
     -   Ensure you have a recent version of R and RStudio installed.
 3.  **Install R Packages:**
-    -   Open the `analysis.R` script in the `R/` directory. It will contain the necessary `install.packages()` commands for all required libraries. Run these commands in your R console.
+    -   Open the `main.R` script in the `scripts/` directory. It will contain the necessary `install.packages()` commands for all required libraries. Run these commands in your R console.
 
 ## How to Run the Analysis
 
-1.  Open the `analysis.R` script in RStudio.
+1.  Open the `main.R` script in RStudio.
 2.  Set your working directory to the root of the project folder.
 3.  Run the script from top to bottom.
 
@@ -103,6 +103,6 @@ For any questions or collaboration opportunities, please reach out:
 
 -   **Name:** Souvik Bag
 -   **Email:** `sbk29@umsystem.edu`
--   **LinkedIn:** [Your LinkedIn Profile URL]
+-   **LinkedIn:** [https://www.linkedin.com/in/souvikbag/]
 -   **GitHub:** [https://github.com/souvik-bag](https://github.com/souvik-bag)
 
