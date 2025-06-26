@@ -54,7 +54,7 @@ smoker-prediction/
 ├── plots/                  # Different saved plots
 ├── scripts/
 │   └── main.R              # Main R script for the complete workflow
-└── README.md                   # This README file
+└── README.md               # This README file
 ```
 
 ## Installation & Setup
