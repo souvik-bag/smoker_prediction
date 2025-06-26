@@ -48,9 +48,12 @@ To develop a robust machine learning model that accurately classifies an individ
 ```
 smoker-prediction/
 ├── data/
-│   └── smoking_dataset.csv     # The training dataset
-├── R/
-│   └── analysis.R              # Main R script for the complete workflow
+│   └── train.csv           # The training dataset
+│   └── test.csv            # The testing dataset
+│   └── results_sub.csv     # The submitted dataset
+├── plots/                  # Different saved plots
+├── scripts/
+│   └── main.R              # Main R script for the complete workflow
 └── README.md                   # This README file
 ```
 
